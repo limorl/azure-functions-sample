@@ -16,7 +16,7 @@
   ],
   "main": "./index",
   "scripts": {
-    "start": "node index",
+    "start": "node index"
   },
   "engines": {
     "node": "~0.10.0 || ~0.12.0",
