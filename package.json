@@ -1,0 +1,32 @@
+{
+  "name": "azure-functions-sample",
+  "version": "0.0.1",
+  "description": "A sample for Azure Functions App",
+  "author": "limorl",
+  "keywords": [
+    "ghost",
+    "blog",
+    "cms"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/TryGhost/Ghost/master/LICENSE"
+    }
+  ],
+  "main": "./index",
+  "scripts": {
+    "start": "node index",
+  },
+  "engines": {
+    "node": "~0.10.0 || ~0.12.0",
+    "iojs": "~1.2.0"
+  },
+  "dependencies": {
+    "request": "2.55.0",
+  },
+  "optionalDependencies": {
+  },
+  "devDependencies": {
+  }
+}
